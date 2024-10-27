@@ -10,7 +10,6 @@
 - [![Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 - 
 ![DanialSoleimany's Stats](https://github-readme-stats.vercel.app/api?username=DanialSoleimany&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![DanialSoleimany's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanialSoleimany&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### 📫 How to Reach Me
 - Email: [Your Email](mailto:youremail@example.com)
@@ -37,4 +36,14 @@ Welcome to my GitHub profile! I'm passionate about [Your Interests]. Check out m
 - Email: [Your Email](mailto:youremail@example.com)
 - Pronouns: [Your Pronouns]
 - Location: [Your Location]
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+
+![Achievements](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true&margin-w=10)
+
 
