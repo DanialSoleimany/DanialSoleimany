@@ -9,8 +9,7 @@
 - [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourUsername)
 - [![Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&hide=stars,prs,issues,contribs&theme=radical)
+![DanialSoleimany's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanialSoleimany&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### 📫 How to Reach Me
 - Email: [Your Email](mailto:youremail@example.com)
