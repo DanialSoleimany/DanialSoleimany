@@ -38,12 +38,13 @@ Welcome to my GitHub profile! I'm passionate about [Your Interests]. Check out m
 - Location: [Your Location]
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DanialSoleimany&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanialSoleimany&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanialSoleimany&theme=radical)
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true&margin-w=10)
+![Achievements](https://github-profile-trophy.vercel.app/?username=DanialSoleimany&theme=radical&no-frame=true&margin-w=10)
+
 
 
