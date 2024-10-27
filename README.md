@@ -3,6 +3,18 @@
 <!--
 **YourUsername/YourUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+```html
+<style>
+    .username { color: #FF5733; }
+    .section-title { color: #6A5ACD; font-size: 1.5em; }
+    .skills-icon { margin: 5px; }
+    .link { text-decoration: none; }
+</style>
+
+<!--
+**YourUsername/YourUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 a## Hi there 👋
 
 <!--
@@ -16,9 +28,30 @@ Welcome to my GitHub profile! I'm passionate about Machine Learning, Deep Learni
 - 🧠 I’m currently learning [New Technology or Skill]
 - 🤝 I’m looking to collaborate on [Project or Area]
 
+<span class="section-title"> Welcome to my GitHub profile! </span>
+I'm passionate about Machine Learning, Deep Learning, and Computer Vision. Check out my projects and connect with me through the links below.
 
+<span class="section-title"> Current Projects </span>
+🌱 I’m currently working on [Your Project Name]
+
+🧠 I’m currently learning [New Technology or Skill]
+
+🤝 I’m looking to collaborate on [Project or Area]
+
+<span class="section-title"> Skills </span>
+
+<span class="section-title"> Connect with Me </span>
+
+<span class="section-title"> GitHub Stats </span>
+
+<span class="section-title"> How to Reach Me </span>
+Email: Your Email
+
+Pronouns: [Your Pronouns]
+
+Location: [Your Location]
 ### 🛠 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat&logo=google&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat&logo=google&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### 🌐 Connect with Me
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YourUsername)
@@ -44,11 +77,6 @@ Welcome to my GitHub profile! I'm passionate about [Your Interests]. Check out m
 - 🧠 I’m currently learning [New Technology or Skill]
 - 🤝 I’m looking to collaborate on [Project or Area]
 
-### 💬 Ask Me About
-- [Topic 1]
-- [Topic 2]
-- [Topic 3]
-
 ### 🌐 Connect with Me
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YourUsername)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourUsername/)
@@ -59,7 +87,4 @@ Welcome to my GitHub profile! I'm passionate about [Your Interests]. Check out m
 - Email: [Your Email](mailto:youremail@example.com)
 - Pronouns: [Your Pronouns]
 - Location: [Your Location]
-
-### ⚡ Fun Fact
-- [Share a fun fact about yourself!]
 
