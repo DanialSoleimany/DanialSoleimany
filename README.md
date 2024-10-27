@@ -6,46 +6,8 @@ I am a Computer Vision Engineer with experience in various medical projects, inc
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DanialSoleimany&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanialSoleimany&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanialSoleimany&theme=radical)
 
 ![Achievements](https://github-profile-trophy.vercel.app/?username=DanialSoleimany&theme=radical&no-frame=true&margin-w=10)
 
-
-
-<canvas id="languagesChart" width="400" height="400"></canvas>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-    var ctx = document.getElementById('languagesChart').getContext('2d');
-    var languagesChart = new Chart(ctx, {
-        type: 'doughnut',
-        data: {
-            labels: ['Python', 'JavaScript', 'HTML', 'CSS', 'Other'],
-            datasets: [{
-                label: 'Languages',
-                data: [60, 25, 10, 4, 1],
-                backgroundColor: [
-                    'rgba(255, 99, 132, 0.2)',
-                    'rgba(54, 162, 235, 0.2)',
-                    'rgba(255, 206, 86, 0.2)',
-                    'rgba(75, 192, 192, 0.2)',
-                    'rgba(153, 102, 255, 0.2)',
-                ],
-                borderColor: [
-                    'rgba(255, 99, 132, 1)',
-                    'rgba(54, 162, 235, 1)',
-                    'rgba(255, 206, 86, 1)',
-                    'rgba(75, 192, 192, 1)',
-                    'rgba(153, 102, 255, 1)',
-                ],
-                borderWidth: 1
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-        }
-    });
-</script>
 
