@@ -8,7 +8,8 @@
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourUsername/)
 - [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourUsername)
 - [![Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-
+- 
+![DanialSoleimany's Stats](https://github-readme-stats.vercel.app/api?username=DanialSoleimany&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![DanialSoleimany's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanialSoleimany&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### 📫 How to Reach Me
