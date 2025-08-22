@@ -28,31 +28,16 @@ Currently, I’m focusing on **image processing, federated learning, and healthc
 
 ---
 
-### 📌 Featured Projects
-- 🧠 **Breast Cancer Detection** – CNN-based classification model for early diagnosis  
-- 🧬 **Brain Tumor Classification** – Deep learning model trained on MRI scans  
-- ✋ **ASL Translator** – Real-time **Numeric & Alphabet American Sign Language** recognition  
-- 🏥 **Healthcare AI** – Ongoing research in federated learning for medical imaging  
+## 📊 GitHub Analytics
 
----
+### 🔹 Activity & Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanialSoleimany&show_icons=true&theme=radical)
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanialSoleimany&show_icons=true&theme=radical" height="160"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanialSoleimany&theme=radical" height="160"/>
-</p>
-
+### 🔹 Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanialSoleimany&layout=compact&theme=radical)
 
----
-
-### 📈 My Contribution Graph
-![Danial's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanialSoleimany&theme=radical)
-
----
-
-### 🐍 Watch my contributions grow
-![Snake animation](https://github.com/DanialSoleimany/DanialSoleimany/blob/output/github-contribution-grid-snake.svg)
+### 🔹 Starred Repositories
+![Starred Repositories](assets/starred_repos.png)
 
 ---
 
