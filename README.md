@@ -4,7 +4,7 @@
 ### 👋 Hi there! Welcome to my GitHub
 
 I am an **AI Engineer** with strong expertise in **Machine Learning, Deep Learning, Image Processing, and Computer Vision**.  
-I have over **2 years of experience** working on both research and industrial projects in these fields, including medical AI applications such as **breast cancer detection, brain tumor classification**, and **American Sign Language (ASL) translation systems**.  
+I have over **2 years of experience** working on both research and industrial projects.
 
 Currently, I am working on **intelligent automation projects in the field of Computer Vision**, with a focus on applying cutting-edge deep learning techniques to solve real-world challenges.  
 
