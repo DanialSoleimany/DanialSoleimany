@@ -3,10 +3,10 @@
 
 ### 👋 Hi there! Welcome to my GitHub
 
-I am an **AI Engineer** passionate about building intelligent systems and solving real-world problems with **Deep Learning** and **Computer Vision**.  
-I’ve worked on exciting projects in **medical AI** such as **breast cancer detection, brain tumor classification**, and also **American Sign Language (ASL) translation systems**.  
+I am an **AI Engineer** with strong expertise in **Machine Learning, Deep Learning, Image Processing, and Computer Vision**.  
+I have over **2 years of experience** working on both research and industrial projects in these fields, including medical AI applications such as **breast cancer detection, brain tumor classification**, and **American Sign Language (ASL) translation systems**.  
 
-Currently, I’m focusing on **image processing, federated learning, and healthcare AI applications**.  
+Currently, I am working on **intelligent automation projects in the field of Computer Vision**, with a focus on applying cutting-edge deep learning techniques to solve real-world challenges.  
 
 ---
 
@@ -22,7 +22,6 @@ Here are some of my highlighted repositories:
 - [CNN-Rice-Image-Classification](https://github.com/DanialSoleimany/CNN-Rice-Image-Classification)  
 - [Data-Storytelling-10-Dynamic-Plots](https://github.com/DanialSoleimany/Data-Storytelling-10-Dynamic-Plots)  
 
-![Projects Overview](assets/starred_repos.png)
 
 ---
 
