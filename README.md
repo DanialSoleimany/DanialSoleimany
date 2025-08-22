@@ -20,7 +20,6 @@ Here are some of my highlighted repositories:
 - [heart-disease-prediction](https://github.com/DanialSoleimany/heart-disease-prediction)  
 - [cervical-cancer](https://github.com/DanialSoleimany/cervical-cancer)  
 - [CNN-Rice-Image-Classification](https://github.com/DanialSoleimany/CNN-Rice-Image-Classification)  
-- [Data-Storytelling-10-Dynamic-Plots](https://github.com/DanialSoleimany/Data-Storytelling-10-Dynamic-Plots)  
 
 
 ---
