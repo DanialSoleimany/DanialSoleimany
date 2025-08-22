@@ -18,11 +18,6 @@ Currently, I’m focusing on **image processing, federated learning, and healthc
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white) 
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=plotly&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ⚙️ **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
@@ -49,6 +44,19 @@ Currently, I’m focusing on **image processing, federated learning, and healthc
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanialSoleimany&layout=compact&theme=radical)
 
+---
+
+### 📈 My Contribution Graph
+![Danial's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanialSoleimany&theme=radical)
+
+---
+
+### 🐍 Watch my contributions grow
+![Snake animation](https://github.com/DanialSoleimany/DanialSoleimany/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🏆 Achievements
 ![Achievements](https://github-profile-trophy.vercel.app/?username=DanialSoleimany&theme=radical&no-frame=true&margin-w=10)
 
 ---
