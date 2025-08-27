@@ -1,26 +1,33 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# برای اینکه بتونه به برنچ خروجی push کنه
+permissions:
+  contents: write
+
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake assets
+        uses: Platane/snk@v3
         with:
-          github_user_name: DanialSoleimany
-          outputs: dist/snake.svg
+          # بهتره از owner خود ریپو استفاده کنی
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Deploy to GitHub Pages
+      - name: Publish to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
           publish_dir: ./dist
